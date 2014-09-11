@@ -1,4 +1,4 @@
-require_relatice "./spec_helper"
+require_relative "./spec_helper"
 
 describe "Detention" do
 
